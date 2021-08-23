@@ -1,0 +1,26 @@
+[
+	{ 
+            "product_id": 1, 
+            "sub_category_id": 1, 
+            "model": "redmi", 
+            "product_name": "Redmi note 6 pro", 
+            "color": "black", 
+            "price": "150" 
+        },
+	{ 
+            "product_id": 2, 
+            "sub_category_id": 1, 
+            "model": "samsung", 
+            "product_name": "Galaxy 7", 
+            "color": "silver", 
+            "price": "300" 
+        },
+	{ 
+            "product_id": 3, 
+            "sub_category_id": 3, 
+            "model": "LG", 
+            "product_name": "XDL 2340", 
+            "color": "black", 
+            "price": "500" 
+        }
+]
